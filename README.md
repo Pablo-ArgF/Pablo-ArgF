@@ -4,20 +4,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&color=F7F7F7&background=5D5D5D9Acenter=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pablo+Argallero+🐒!;" />
 </h1>
 
-<h2 align="center">A passionate software developer from Spain</h2>
-<div >
+<div>
     <h3>🛠️ Currently Developing:</h3>
-    <div>
-        🦾<strong>DeepFake Detection AI:</strong> Final degree project exploring AI to combat DeepFake technology.<br>
-        🛡️<strong>MoneyGuardian:</strong> Android app for efficient finance management and splitting costs with friends.
-    </div>
+    <ul>
+      <li>🦾 <strong>DeepFake Detection AI:</strong> Final degree project exploring AI to combat DeepFake technology.</li>
+      <li>🛡️ <strong>MoneyGuardian:</strong> Android app for efficient finance management and splitting costs with friends.</li>
+    </ul>
     <h3>🕒 Past Projects</h3>
-    <div>
-        <strong>🗺️Lomap:</strong> Share locations with friends.<br>
-        <strong>Wallanode:</strong> Second-hand store with Node.js.<br>
-        <strong>WallaSpring:</strong> Second-hand store with Java Spring.
-    </div>
-</div>
+    <ul>
+      <li><strong>🗺️ Lomap:</strong> Share locations with friends.
+        <details>
+          <summary>View Video</summary>
+          <video width="560" height="315" controls>
+            <source src="./videos/Lomap_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </details>
+      </li>
+      <li><strong>Wallanode:</strong> Second-hand store with Node.js.</li>
+      <li><strong>WallaSpring:</strong> Second-hand store with Java Spring.</li>
+    </ul>
+  </div>
 
  
 <div align="center"> 
