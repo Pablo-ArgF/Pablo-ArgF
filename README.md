@@ -7,11 +7,12 @@
 <div>
     <h3>🛠️ Currently Developing:</h3>
     <ul>
-      <li>🦾 <strong>DeepFake Detection AI:</strong> Final degree project exploring AI to combat DeepFake technology.</li>
-      <li>🛡️ <strong>MoneyGuardian:</strong> Android app for efficient finance management and splitting costs with friends.</li>
+      <li>🦾 <strong>DeepFake Detection AI:</strong> Paper on Deepfake detection explainability.</li>
+      <li>📋 <strong>TIKO:</strong> Mobile/Web app to manage receipes</li>
     </ul>
     <h3>🕒 Past Projects</h3>
     <ul>
+      <li>🛡️ <strong>MoneyGuardian:</strong> Android app for efficient finance management and splitting costs with friends.</li>
       <li><strong>🗺️ Lomap:</strong> Share locations with friends.
         <details>
           <summary>View Video</summary>
